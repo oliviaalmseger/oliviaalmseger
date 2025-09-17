@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @OliviaAlmseger
 - 🌱 I'm currently studying to become a Frontend Developer
 - 🌟 Fun fact: In my free time, I enjoy reading books and baking sourdough bread
-- 😄 Pronouns: She/Her
+- 💡 Before diving into frontend development, I worked as a speech and language pathologist (SLP) specializing in swallowing disorders and acquired speech and language difficulties following brain injuries. Through this work, I discovered the importance of accessibility and adaptations, especially through assistive technologies — which eventually inspired me to pursue a career in tech and frontend development.
 
 <!--
 **oliviaalmseger/oliviaalmseger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
